@@ -1,0 +1,4 @@
+kafka-python
+faiss-cpu
+numpy
+requests
