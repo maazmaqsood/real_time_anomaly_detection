@@ -7,8 +7,6 @@ This project implements a real-time anomaly detection system using Kafka for mes
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Running the Application](#running-the-application)
-- [Commands to Push](#commands-to-push)
-- [License](#license)
 
 ## Features
 - Real-time log processing using Kafka.
